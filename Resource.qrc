@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>html/index.html</file>
+        <file>html/assets/css/test.css</file>
+        <file>html/assets/js/test.js</file>
+        <file>html/assets/images/nice-melons.jpg</file>
+    </qresource>
+</RCC>
